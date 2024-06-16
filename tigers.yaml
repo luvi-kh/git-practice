@@ -17,4 +17,4 @@ members:
 fetch: this
 new: branch
 
-make change in local
+make conflict
